@@ -1,10 +1,10 @@
-Assignment 1 : 
+**Assignment 1 :** 
 
 1. Implement an agent module/class Agent that uses Heuristic Search for choosing an action to take given a state. The agent uses an independent module/class Game for functions defining state transitions and states neighborhood and a module/class Heuristics for definitions of heuristic functions.
 
 2. Choose two different problems/games/puzzles and provide a statistical experimentation on several problem instances for comparatively evaluating the agent performance using different search algorithms and different heuristics
 
-Assignment 2:
+**Assignment 2:**
 
 1. Augment your implementation of alhabetaMinMax by making it explore only most promising states according to their H0 “static” evaluation for computing their HL value.
 
@@ -22,6 +22,6 @@ Modify your previous implemenation by making it use the R predictions instead of
 
 - Experiment and report comparative results with respect to previous alhabetaMinMax versions.
 
-Assignment 3: 
+**Assignment 3:** 
 
 Cooking Chef Problem - Reinforcement Learning
