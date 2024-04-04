@@ -4,19 +4,15 @@ Assignment 1 :
 
 2. Choose two different problems/games/puzzles and provide a statistical experimentation on several problem instances for comparatively evaluating the agent performance using different search algorithms and different heuristics
 
-3. Assignment 2:
+Assignment 2:
 
-4. 1. Augment your implementation of alhabetaMinMax by making it explore only most promising states according to their H0 “static” evaluation for computing their HL value.
+1. Augment your implementation of alhabetaMinMax by making it explore only most promising states according to their H0 “static” evaluation for computing their HL value.
 
 - Experiment and report results observed when compared to the original alhabetaMinMax
-
-
 
 2. Generalize a bit by making it compute HL according by exploring only most promising states according to their Hl evaluation, 0<l<L
 
 -Experiment and report results observed for different choiches of l. Try to look for an optimal l whe L=10 (or maybe more …)
-
-
 
 3. Define your H0 as a function f(h1,…,hn) where hi are “observations ”on the state.
 
